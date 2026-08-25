@@ -1,0 +1,14 @@
+# Compiled executables
+hardware_trace_analyzer
+hardware_trace_analyzer.exe
+
+# Object files
+*.o
+*.obj
+
+# Common build files
+*.out
+
+# IDE/editor files
+.vscode/
+.idea/
